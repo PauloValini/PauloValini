@@ -1,12 +1,25 @@
-### About me 🦉
-Hey! <br/>
-I'm a junior software engineer and writer. I love art, philosophy and writing cool stuff.
+# About Me 🦉  
 
+Hey!  
+I'm Paulo Valini, a junior software engineer and writer passionate about art, philosophy, and creating cool projects.
 
-### Languages
-- C#
-- C++ 🌱
-- GDScript 🌱 
+---
 
-### Currently working on...
-The musical railways of your dreams! 🚂🤖
+### **Languages**  
+- **C#**
+- **C++** 🌱  
+- **GDScript** 🌱
+
+---
+
+### **Currently Working On...**  
+🚂 **The Musical Railways of Your Dreams**:  
+An interactive project combining procedural music and railway simulation. *(More details coming soon!)*  
+
+---
+
+### **What I Love**  
+When I'm not coding, you’ll find me:  
+- Writing fiction and on games.
+- Diving into philosophy (currently going through Bergson's ouvre!)
+- Messing with 3D graphics. 
