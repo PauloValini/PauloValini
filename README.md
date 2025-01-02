@@ -9,3 +9,8 @@ Hey! I'm a junior software engineer and writer. I love art, philosophy and writi
 
 ### Currently working on
 The musical railways of your dreams! 🚂
+
+<div style="display: none">
+  ## Popular Repositories
+  This section is intentionally hidden
+</div>
