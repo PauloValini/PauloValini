@@ -18,8 +18,8 @@ An interactive project combining procedural music and railway simulation. *(More
 
 ---
 
-### **What I Love**  
+### **Interests**  
 When I'm not coding, you’ll find me:  
-- Writing fiction and on games.
+- Writing.
 - Diving into philosophy (currently going through Bergson's ouvre!)
 - Messing with 3D graphics. 
