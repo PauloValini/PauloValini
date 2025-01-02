@@ -18,7 +18,7 @@ An interactive project combining procedural music and railway simulation. *(More
 
 ---
 
-### **Interests**  
+### **Interests beyond coding**  
 - Writing.
-- Philosophy (currently going through Bergson's ouvre)
+- Philosophy (currently going through Bergson's ouvre).
 - Messing with 3D graphics. 
