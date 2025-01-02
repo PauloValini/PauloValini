@@ -21,5 +21,5 @@ An interactive project combining procedural music and railway simulation. *(More
 ### **Interests**  
 When I'm not coding, you’ll find me:  
 - Writing.
-- Diving into philosophy (currently going through Bergson's ouvre!)
+- Diving into philosophy (currently going through Bergson's ouvre)
 - Messing with 3D graphics. 
