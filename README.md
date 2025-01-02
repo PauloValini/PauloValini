@@ -14,7 +14,7 @@ I'm Paulo Valini, a junior software engineer and writer passionate about art, ph
 
 ### **Currently working on...**  
 🚂 **Musical Railways**   
-An interactive project combining procedural music and railway simulation. *(More details coming soon!)*  
+*(More details coming soon!)*  
 
 ---
 
