@@ -4,8 +4,8 @@ Hey! I'm a junior software engineer and writer. I love art, philosophy and writi
 
 ### Languages
 - C#
-- C
-- GDScript
+- C++ 🌱
+- GDScript 🌱 
 
 ### Currently working on...
 The musical railways of your dreams! 🚂🤖
