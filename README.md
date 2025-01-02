@@ -7,5 +7,5 @@ Hey! I'm a junior software engineer and writer. I love art, philosophy and writi
 - C
 - GDScript
 
-### Currently working on
-The musical railways of your dreams! 🚂
+### Currently working on...
+the musical railways of your dreams! 🚂
