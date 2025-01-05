@@ -14,7 +14,6 @@ I'm Paulo Valini, a junior software engineer and writer passionate about art, ph
 
 ### **Currently working on...**  
 🚂 **Railways**   
-*(More details coming soon!)*  
 
 ---
 
