@@ -19,5 +19,5 @@ I'm Paulo Valini, a junior software engineer and writer passionate about art, ph
 
 ### **Interests beyond coding**  
 - Writing.
-- Philosophy (currently going through Bergson's ouvre).
+- Philosophy.
 - Messing with 3D graphics. 
