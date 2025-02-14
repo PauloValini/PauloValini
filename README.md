@@ -7,7 +7,7 @@ I'm Paulo Valini, a junior software engineer and writer passionate about art, ph
 
 ### **Languages**  
 - **C#**
-- **C++** 🌱  
+- **Rust** 🌱  
 - **GDScript** 🌱
 
 ---
