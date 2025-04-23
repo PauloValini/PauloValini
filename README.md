@@ -20,4 +20,4 @@ I'm Paulo Valini, a junior software engineer and writer passionate about art, ph
 ### **Interests beyond coding**  
 - Writing.
 - Philosophy.
-- 3D.
+- Graphics.
