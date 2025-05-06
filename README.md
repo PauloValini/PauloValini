@@ -13,7 +13,7 @@ I'm Paulo Valini, a junior software engineer and writer passionate about creatin
 ---
 
 ### **Currently working on...**  
-🚂 **Railways**   
+🖌️ **Paint**   
 
 ---
 
